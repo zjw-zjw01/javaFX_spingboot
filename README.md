@@ -1,0 +1,2 @@
+# javaFX_spingboot
+springboot下集成javaFX
